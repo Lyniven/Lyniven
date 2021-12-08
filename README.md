@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lyniven
+- 👀 I’m interested in Rust, TS, IaC and php ecosystem
+- 🌱 I’m currently learning nuclear physics
+- 💞️ I’m looking to collaborate on.. you tell me!
+- 📫 How to reach me ... Please don't !
